@@ -1,0 +1,10 @@
+{
+  "name": "require-handlebars-plugin",
+  "version": "0.4.2",
+  "main": "hbs.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
